@@ -1,2 +1,2 @@
-# food-api
+# food-app-api
 food api in Django
